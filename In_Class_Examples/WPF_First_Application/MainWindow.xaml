@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPF_First_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_First_Application"
+        mc:Ignorable="d"
+        Title="My First WPF Application!" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="https://designerdoodlesbykim.com/wp-content/uploads/2025/02/96162867216fede4c69e328277784edd-640x675.jpg"/>
+        </Grid.Background>
+        <Button Content="Press Me!" HorizontalAlignment="Left" Margin="218,217,0,0" VerticalAlignment="Top" Height="98" Width="207" Click="Button_Click"/>
+        <Label Content="Firstname:" HorizontalAlignment="Left" Margin="157,105,0,0" VerticalAlignment="Top" Background="#FFF7E1E1"/>
+        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Margin="235,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Lastname:" HorizontalAlignment="Left" Margin="157,143,0,0" VerticalAlignment="Top" Background="#FFF7E1E1"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Margin="235,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="Textbox"/>
+
+    </Grid>
+</Window>

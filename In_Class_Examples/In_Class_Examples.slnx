@@ -2,4 +2,5 @@
   <Project Path="Review_Collections/Review_Collections.csproj" Id="97995c42-ff63-4293-8bc4-6ab4822f8fdc" />
   <Project Path="Review_Functions/Review_Functions.csproj" Id="e9f6763e-cbcf-4389-8cd7-72e3360951f9" />
   <Project Path="WPF/WPF.csproj" />
+  <Project Path="WPF_First_Application/WPF_First_Application.csproj" Id="d51967ba-b461-40ab-9db0-82ccea84a529" />
 </Solution>
