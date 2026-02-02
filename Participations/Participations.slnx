@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="First_WPF_Application/First_WPF_Application.csproj" />
+  <Project Path="WPF_Classes_And_Files/WPF_Classes_And_Files.csproj" Id="bd1bd7c8-9cc4-43a0-9e65-53d8fbe04d30" />
 </Solution>
