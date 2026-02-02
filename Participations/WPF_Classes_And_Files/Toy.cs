@@ -33,5 +33,10 @@ namespace WPF_Classes_And_Files
             return aisle;
         }
 
+        public override string ToString()
+        {
+            return $"{Manufacturer} - {Name}";
+        }
+
     }
 }

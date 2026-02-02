@@ -17,13 +17,15 @@ namespace WPF_Classes_And_Files
     /// </summary>
     public partial class MainWindow : Window
     {
+
         private List<Toy> toys = new List<Toy>();
+
         public MainWindow()
         {
             InitializeComponent();
             string[] linesOfFile = File.ReadAllLines("Toys.csv");
 
-            foreach (string line in linesOfFile)
+            foreach (string line in linesOfFile.Skip(1))
             {
                 //line = Manufacturer,Name,Price,Image
                 string[] partsOfLine = line.Split(',');
@@ -37,8 +39,25 @@ namespace WPF_Classes_And_Files
                 //partsOfLine[2] = Price
                 //partsOfLine[3] = Image
                 toys.Add(myToy);
+                lstToys.Items.Add(myToy);
             }
 
+        }
+
+        private void lstToys_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Toy selectedToy = (Toy)lstToys.SelectedItem;
+            var uri = new Uri(selectedToy.Image, UriKind.RelativeOrAbsolute);
+            var bitmap = new BitmapImage(uri);
+            imgToy.Source = bitmap;
+            txtPrice.Text = $"{selectedToy.Price.ToString("C")}";
+
+        }
+
+        private void lstToys_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            Toy selectedToy = (Toy)lstToys.SelectedItem;
+            MessageBox.Show($"Aisle: {selectedToy.GetAisle()}", "Aisle Information");
         }
     }
 }

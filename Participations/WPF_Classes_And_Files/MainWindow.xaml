@@ -7,7 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox x:Name="lstToys" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="29,59,521,158"/>
+        <ListBox x:Name="lstToys" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="29,59,478,129" SelectionChanged="lstToys_SelectionChanged" MouseDoubleClick="lstToys_MouseDoubleClick"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="398,53,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="478,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Image x:Name="imgToy" HorizontalAlignment="Left" Height="223" Margin="366,182,0,0" VerticalAlignment="Top" Width="423"/>
 
     </Grid>
 </Window>
