@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF_InputOutput_JSON.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_InputOutput_JSON"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="cboSpicyLevel" HorizontalAlignment="Left" Margin="56,87,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cboSpicyLevel_SelectionChanged"/>
+        <ListBox x:Name="lstSnacks" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="313,34,31,121"/>
+        <Button x:Name="btnSave" Content="Save Data" HorizontalAlignment="Left" Margin="87,293,0,0" VerticalAlignment="Top" Height="46" Width="107" Click="btnSave_Click"/>
+
+    </Grid>
+</Window>

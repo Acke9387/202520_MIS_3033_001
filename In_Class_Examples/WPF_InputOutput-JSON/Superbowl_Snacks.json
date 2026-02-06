@@ -1,0 +1,212 @@
+[
+  {
+    "snack_name": "morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus",
+    "price": 15.68,
+    "calories": 66,
+    "serving_size": 7,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante",
+    "price": 12.02,
+    "calories": 244,
+    "serving_size": 4,
+    "spiciness_level": "mild"
+  },
+  {
+    "snack_name": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci",
+    "price": 15.06,
+    "calories": 176,
+    "serving_size": 4,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut",
+    "price": 15.39,
+    "calories": 409,
+    "serving_size": 3,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero",
+    "price": 14.69,
+    "calories": 213,
+    "serving_size": 8,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis",
+    "price": 2.19,
+    "calories": 314,
+    "serving_size": 2,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque",
+    "price": 6.33,
+    "calories": 117,
+    "serving_size": 2,
+    "spiciness_level": "mild"
+  },
+  {
+    "snack_name": "primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "price": 9.77,
+    "calories": 304,
+    "serving_size": 10,
+    "spiciness_level": "mild"
+  },
+  {
+    "snack_name": "augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",
+    "price": 14.74,
+    "calories": 446,
+    "serving_size": 7,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis",
+    "price": 15.24,
+    "calories": 232,
+    "serving_size": 1,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros",
+    "price": 17.84,
+    "calories": 80,
+    "serving_size": 8,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non",
+    "price": 4.02,
+    "calories": 227,
+    "serving_size": 6,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis",
+    "price": 1.92,
+    "calories": 227,
+    "serving_size": 4,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum",
+    "price": 11.45,
+    "calories": 366,
+    "serving_size": 3,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est",
+    "price": 6.26,
+    "calories": 367,
+    "serving_size": 5,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam",
+    "price": 18.61,
+    "calories": 487,
+    "serving_size": 4,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean",
+    "price": 4.15,
+    "calories": 473,
+    "serving_size": 9,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel",
+    "price": 1.38,
+    "calories": 149,
+    "serving_size": 8,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec",
+    "price": 15.15,
+    "calories": 476,
+    "serving_size": 4,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",
+    "price": 5.84,
+    "calories": 342,
+    "serving_size": 4,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "nam congue risus semper porta volutpat quam pede lobortis ligula sit",
+    "price": 3.97,
+    "calories": 213,
+    "serving_size": 1,
+    "spiciness_level": "mild"
+  },
+  {
+    "snack_name": "magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non",
+    "price": 3.59,
+    "calories": 469,
+    "serving_size": 2,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse",
+    "price": 9.13,
+    "calories": 223,
+    "serving_size": 1,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus",
+    "price": 7.28,
+    "calories": 234,
+    "serving_size": 3,
+    "spiciness_level": "mild"
+  },
+  {
+    "snack_name": "risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede",
+    "price": 12.45,
+    "calories": 405,
+    "serving_size": 6,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis",
+    "price": 12.98,
+    "calories": 111,
+    "serving_size": 5,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis",
+    "price": 18.35,
+    "calories": 285,
+    "serving_size": 2,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero",
+    "price": 14.52,
+    "calories": 390,
+    "serving_size": 6,
+    "spiciness_level": "medium"
+  },
+  {
+    "snack_name": "eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+    "price": 4.49,
+    "calories": 302,
+    "serving_size": 9,
+    "spiciness_level": "hot"
+  },
+  {
+    "snack_name": "risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum",
+    "price": 2.25,
+    "calories": 191,
+    "serving_size": 8,
+    "spiciness_level": "medium"
+  }
+]
