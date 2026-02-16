@@ -70,7 +70,7 @@ namespace WPF_Classes_And_Files_2
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-            string filePath = "FilteredSales.csv";
+            string filePath = "FilteredSales.json";
             string json = JsonConvert.SerializeObject(lstSales.Items);
 
             File.WriteAllText(filePath, json, Encoding.UTF8);
