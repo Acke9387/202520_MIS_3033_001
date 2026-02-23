@@ -4,4 +4,5 @@
   <Project Path="WPF/WPF.csproj" />
   <Project Path="WPF_First_Application/WPF_First_Application.csproj" Id="d51967ba-b461-40ab-9db0-82ccea84a529" />
   <Project Path="WPF_InputOutput-JSON/WPF_InputOutput-JSON.csproj" Id="e68e503e-cd50-46f4-bd71-8abc1c5e6ebb" />
+  <Project Path="WPF_JSON/WPF_JSON.csproj" Id="5af365d5-96bf-48f6-987e-51bdbd79cfcd" />
 </Solution>
