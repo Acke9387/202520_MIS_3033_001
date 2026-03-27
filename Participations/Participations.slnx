@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="EF_Selecting-Data/EF_Selecting-Data.csproj" Id="9ea017af-1c53-4d24-92ef-d83eaabc4ee6" />
   <Project Path="First_WPF_Application/First_WPF_Application.csproj" />
   <Project Path="JSON_Chuck-Norris-Jokes/JSON_Chuck-Norris-Jokes.csproj" Id="ba4b7bd6-7c7d-4851-9f1b-ff9fac3f8ea6" />
   <Project Path="WPF_Classes_And_Files/WPF_Classes_And_Files.csproj" Id="bd1bd7c8-9cc4-43a0-9e65-53d8fbe04d30" />
